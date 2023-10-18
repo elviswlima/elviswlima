@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elviswlima
-- 👀 I’m interested in vagas Dev Jr. / Estágio em back-end/front-end
-- 🌱 I’m currently learning  Java, MySQL, HTML, CSS, JavaScript, Python.
+- 👀 I’m interested in jobs as "Systems Analyst Jr"
+- 🌱 I’m currently learning Linux, Windows, VMWare, SQL Server, MySQL, Java, Python, HTML, CSS, JavaScript, React-Native.
 - 📫 (011) São Paulo, Brasil.
 
 <!---
